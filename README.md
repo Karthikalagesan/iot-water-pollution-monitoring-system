@@ -78,7 +78,7 @@ This allows the measurements to be monitored remotely through the ThingSpeak pla
 
 The main Arduino source code is available in:
 
-`iot-water-pollution-monitoring-system.ino`
+👉 [View the Arduino Source Code](https://github.com/Karthikalagesan/iot-water-pollution-monitoring-system/blob/main/iot-water-pollution-monitoring-system.ino)
 
 ## 📷 Project Documentation
 
