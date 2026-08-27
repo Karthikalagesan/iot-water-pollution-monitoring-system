@@ -2,7 +2,7 @@
 
 An IoT-based water quality monitoring system developed as a Diploma in Electronic Engineering (Communication) project.
 
-The system uses sensors and an ESP32-based controller to collect water-quality-related measurements, display readings locally on an OLED display, and transmit data to ThingSpeak for remote monitoring.
+The system uses an ESP32 microcontroller, temperature and electrical conductivity (EC) sensors, an OLED display, and ThingSpeak to collect, display, and transmit water-quality-related measurements for remote monitoring
 
 ## 📌 Project Overview
 
@@ -13,10 +13,10 @@ The implementation includes:
 - 🌡️ Water temperature measurement
 - ⚡ Electrical conductivity (EC) measurement
 - 📟 OLED display for local readings
-- 📡 Wi-Fi connectivity using ESP32
+- 📡 ESP32 Wi-Fo connectivity
 - ☁️ ThingSpeak cloud data transmission
-- 🔧 EC calibration support
-- 💾 EEPROM support for calibration data
+- 🔄 Real-time data transmission
+- 📊 Experimental data visualization
 
 > **Note:** The original project documentation/flowchart also describes pH and turbidity monitoring. The source code currently included in this repository specifically implements temperature and EC measurement/transmission.
 
